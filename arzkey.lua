@@ -34,7 +34,7 @@ function main()
     	end
     -- вырежи тут, если хочешь отключить проверку обновлений
    
-		sampAddChatMessage('{00FFFF}[ArzKey 1.1 by {FF0000}bodyysamp{00FFFF}] {FFFFFF}Скрипт успешно загружен!')
+		sampAddChatMessage('{00FFFF}[ArzKey 1.2 by {FF0000}bodyysamp{00FFFF}] {FFFFFF}Скрипт успешно загружен!')
 		while true do
 		wait(0)
 			if isKeyDown(VK_L) and not sampIsCursorActive() then
