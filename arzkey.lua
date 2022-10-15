@@ -1,7 +1,7 @@
 require "lib.moonloader"
 
 script_name("arzkey")
-script_version("1.1")
+script_version("1.2")
 script_author("bodyysamp")
 -- https://github.com/qrlk/moonloader-script-updater
 local enable_autoupdate = true -- false to disable auto-update + disable sending initial telemetry (server, moonloader version, script version, samp nickname, virtual volume serial number)
